@@ -291,9 +291,31 @@ Created analytical reports for business stakeholders.
 * Identify growth opportunities
 
 ---
-## Query Results
+### Query Results
 
 Advanced Analytics query results screenshots are attached as proof under results folder 
+
+## 1. Change over Time
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7b1fd81d-199f-44ef-8729-bf23bea2c754" />
+
+## 2. Cumulative Analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df622121-e8bc-4bb0-82ad-e5a1054774f3" />
+
+## 3. Performance Analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2ccf328-528b-4beb-bbf8-a95fffe73061" />
+
+## 4. Part to Whole (Porportional Analysis)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a4c79af4-36b3-4d6e-ab67-4417c0b87ee2" />
+
+## 5. Data Segmentation
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e71732bc-82ea-4b27-ab9b-bde419dc5c35" />
+
+## 6. Customer Report
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/044ede44-5f4e-4ad1-b3b2-a012ddd35615" />
+
+
+## 7. Product Report
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/906cb7c5-973b-42e9-953c-d00e5c14373c" />
 
 ---
 # Key SQL Concepts Used
