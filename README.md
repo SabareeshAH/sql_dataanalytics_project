@@ -291,7 +291,11 @@ Created analytical reports for business stakeholders.
 * Identify growth opportunities
 
 ---
+## Query Results
 
+Advanced Analytics query results screenshots are attached as proof under results folder 
+
+---
 # Key SQL Concepts Used
 
 The project extensively utilizes PostgreSQL analytical capabilities.
@@ -337,6 +341,8 @@ Data-Analytics-Project/
 │   ├── dim_customers.csv
 │   ├── dim_products.csv
 │   ├── fact_sales.csv
+|
+├── Results/
 |
 ├── EDA/
 │   ├── exploratory_data_analysis.sql
